@@ -1,0 +1,8 @@
+name = "tumblr"
+type = "javascript"
+account_id = "d5ccf1d783709bbdc23fc29786f38736"
+workers_dev = true
+compatibility_date = "2022-03-23"
+
+[build.upload]
+format = "service-worker"

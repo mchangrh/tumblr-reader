@@ -1,0 +1,16 @@
+{
+  "name": "@mchangrh/tumblr-proxy",
+  "version": "1.0.0",
+  "description": "returns tumblr embeds",
+  "main": "src/tumblr.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchangrh/tumblr-reader.git"
+  },
+  "author": "Michael Chang <michael@mchang.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mchangrh/tumblr-reader/issues"
+  },
+  "homepage": "https://github.com/mchangrh/tumblr-reader#readme"
+}
